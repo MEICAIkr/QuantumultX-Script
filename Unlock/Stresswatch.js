@@ -12,7 +12,7 @@ Disclaimers：Study, not spread
 
 
 [rewrite_local]
-^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$) url script-response-body https://raw.githubusercontent.com/MEICAIkr/QuantumultX-Script/new/main/Unlock/Stresswatch.js
+^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$) url script-response-body https://raw.githubusercontent.com/MEICAIkr/QuantumultX-Script/main/Unlock/Stresswatch.js
 
 
 [MITM]
